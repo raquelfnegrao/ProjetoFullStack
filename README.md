@@ -106,4 +106,4 @@ npm run dev
 ## 🌐 Acesso à aplicação
 
 - Frontend React: http://localhost:5173
-- Backend Node.js: http://localhost:3001
+- Backend Node.js: http://localhost:3000
